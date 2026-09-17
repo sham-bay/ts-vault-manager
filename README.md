@@ -1,5 +1,9 @@
 # @shambay/vault-manager
 
+![NPM Version](https://img.shields.io/npm/v/%2540shambay%252Fvault-manager?logo=npm&logoColor=red)
+[![Publish to npm](https://github.com/sham-bay/ts-vault-manager/actions/workflows/publish-to-npm.yml/badge.svg)](https://github.com/sham-bay/ts-vault-manager/actions/workflows/publish-to-npm.yml)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Vault client with built-in caching, deduplication, and proactive data refresh.
 
 Based on [`@shambay/cached-http-resolver`](https://www.npmjs.com/package/@shambay/cached-http-resolver).
@@ -358,4 +362,6 @@ const value = await vaultRequest(
 
 The return type is `string`.
 
+## License
 
+Apache 2.0 © [Sham Bay](https://github.com/sham-bay)
