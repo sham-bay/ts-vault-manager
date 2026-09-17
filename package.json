@@ -1,6 +1,6 @@
 {
 	"name": "@shambay/vault-manager",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "Vault client with built-in caching, deduplication, and proactive data refresh",
 	"repository": {
 		"type": "git",
